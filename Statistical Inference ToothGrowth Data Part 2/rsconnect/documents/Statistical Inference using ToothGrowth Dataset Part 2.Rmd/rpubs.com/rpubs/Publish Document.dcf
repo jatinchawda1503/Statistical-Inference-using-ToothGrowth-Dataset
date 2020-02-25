@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/578469/f6943feff61a46488ef698a18b25e2fd
+bundleId: https://api.rpubs.com/api/v1/document/578469/f6943feff61a46488ef698a18b25e2fd
+url: http://rpubs.com/jatinchawda1503/578469
+when: 1582653869.19427
